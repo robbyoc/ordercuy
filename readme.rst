@@ -5,21 +5,24 @@ Ordercuy merupakan sebuah sistem berbasis web untuk pemesanan menu makanan dan m
 
 Berikut merupakan beberapa fitur utama dari sistem Ordercuy:
 
-Pengguna dapat melakukan registrasi akun dan login
-Pengguna dapat melihat daftar menu makanan dan minuman
-Pengguna dapat memilih menu dan jumlah item yang diinginkan
-Pengguna dapat menambahkan menu ke keranjang belanja
-Pengguna dapat memesan makanan di keranjang belanja
-Pengguna dapat melihat status pemesanan
-Pengelola dapat menambah, mengedit dan menghapus data menu
-Pengelola dapat menerima atau menolak pemesanan
-Pengelola dapat mengubah status pemesanan
-Laporan data pemesanan, menu, pengguna, dan transaksi
-Sistem Ordercuy dibangun menggunakan:
+-  `Pengguna dapat melakukan registrasi akun dan login`_
+-  `Pengguna dapat melihat daftar menu makanan dan minuman`_
+-  `Pengguna dapat memilih menu dan jumlah item yang diinginkan`_
+-  `Pengguna dapat menambahkan menu ke keranjang belanja`_
+-  `Pengguna dapat memesan makanan di keranjang belanja`_
+-  `Pengguna dapat melihat status pemesanan`_
+-  `Pengelola dapat menambah, mengedit dan menghapus data menu`_
+-  `Pengelola dapat menerima atau menolak pemesanan`_
+-  `Pengelola dapat mengubah status pemesanan`_
+-  `Laporan data pemesanan, menu, pengguna dan transaksi`_
 
-PHP Framework CodeIgniter 3
-Basis data MySQL
-Template Bootstrap SB Admin 2
+************
+Sistem Ordercuy dibangun menggunakan :
+************
+
+-  `PHP Framework CodeIgniter 3`_
+-  `Basis data MySQL`_
+-  `Template Bootstrap SB Admin 2`_
 
 ###################
 What is CodeIgniter
