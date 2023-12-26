@@ -1,4 +1,27 @@
 ###################
+Ordercuy - Sistem Pengelolaan Pemesanan Pangan Kantin
+###################
+Ordercuy merupakan sebuah sistem berbasis web untuk pemesanan menu makanan dan minuman pada kantin. Sistem ini dibuat sebagai inovasi pada kantin kampus yang padat dengan mahasiswanya demi menghindari antrean panjang pada kantin.
+
+Berikut merupakan beberapa fitur utama dari sistem Ordercuy:
+
+Pengguna dapat melakukan registrasi akun dan login
+Pengguna dapat melihat daftar menu makanan dan minuman
+Pengguna dapat memilih menu dan jumlah item yang diinginkan
+Pengguna dapat menambahkan menu ke keranjang belanja
+Pengguna dapat memesan makanan di keranjang belanja
+Pengguna dapat melihat status pemesanan
+Pengelola dapat menambah, mengedit dan menghapus data menu
+Pengelola dapat menerima atau menolak pemesanan
+Pengelola dapat mengubah status pemesanan
+Laporan data pemesanan, menu, pengguna, dan transaksi
+Sistem Ordercuy dibangun menggunakan:
+
+PHP Framework CodeIgniter 3
+Basis data MySQL
+Template Bootstrap SB Admin 2
+
+###################
 What is CodeIgniter
 ###################
 
